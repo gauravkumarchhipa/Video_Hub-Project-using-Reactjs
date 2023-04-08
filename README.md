@@ -1,8 +1,24 @@
-# install
+# installation 
+Nodejs, Vscode editor, Browser
+# Create new Project
+npx create-react-app my-app
+# install project
 npm i
+# run Project
+npm start
+# open Project in Browser
+Open [http://localhost:3000]
+# npm package using
+"@chakra-ui/react": "^2.5.1",
+"@emotion/react": "^11.10.6",
+"@emotion/styled": "^11.10.6",
+"framer-motion": "^6.5.1",
+"react-dom": "^18.2.0",
+"react-icons": "^3.11.0",
+"react-responsive-carousel": "^3.2.23",
+"react-router-dom": "^6.8.1"
+# Description 
 
-# Run 
-npm run start
 
 # Screenshorts
 
