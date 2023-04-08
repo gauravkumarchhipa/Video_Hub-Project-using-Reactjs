@@ -17,7 +17,7 @@ Open [http://localhost:3000]
 "react-responsive-carousel": "^3.2.23",
 "react-router-dom": "^6.8.1"
 # Description 
-This React app in chakra-ui using create web. This App in react-router, carousel. This app is simple video hub stattic web app.
+This React app in chakra-ui using create web. This App in react-router, carousel. This app is simple video hub static web app.
 
 # Screenshorts
 
