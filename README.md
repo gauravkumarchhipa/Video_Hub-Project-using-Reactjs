@@ -13,12 +13,11 @@ Open [http://localhost:3000]
 "@emotion/react": "^11.10.6",
 "@emotion/styled": "^11.10.6",
 "framer-motion": "^6.5.1",
-"react-dom": "^18.2.0",
 "react-icons": "^3.11.0",
 "react-responsive-carousel": "^3.2.23",
 "react-router-dom": "^6.8.1"
 # Description 
-
+This React app in chakra-ui using create web. This App in react-router, carousel. This app is simple video hub stattic web app.
 
 # Screenshorts
 
